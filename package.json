@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/tvance989/dotme/issues"
   },
-  "homepage": "https://github.com/tvance989/dotme#readme"
+  "homepage": "https://github.com/tvance989/dotme#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
 }

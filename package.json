@@ -1,0 +1,19 @@
+{
+  "name": "dotme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tvance989/dotme.git"
+  },
+  "author": "Taylor Vance",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tvance989/dotme/issues"
+  },
+  "homepage": "https://github.com/tvance989/dotme#readme"
+}
